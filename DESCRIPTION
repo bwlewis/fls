@@ -1,0 +1,10 @@
+Package: fls
+Type: Package
+Title: Flexible least squares and related weighted Kalman filter
+Version: 0.1
+Date: 2009-11-02
+Author: Bryan W. Lewis
+Maintainer: Bryan W. Lewis <bwaynelewis@gmail.com>
+Description: Implementation of the Kalaba-Tesfatsion flexible least squares algorithm and a related weighted Kalman filter of Montana, et. al. See the documentation for additional references.
+License: GPL
+LazyLoad: yes
